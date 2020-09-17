@@ -1,0 +1,8 @@
+{"tyontekijat":
+  [
+   {"firstName":"Mauno", "lastName":"Ahonen", "osoite":"Linnoituksentie 10 B","puhelinNumero":"040-12345"},
+   {"firstName":"Matti", "lastName":"Näsä", "osoite":"Siltapolku 11 C","puhelinNumero":"040-324234"},
+   {"firstName":"Raimo", "lastName":"Vormisto", "osoite":"Kauppakatu 6 D","puhelinNumero":"040-34234234"},
+   {"firstName":"Timo", "lastName":"Silakka", "osoite":"Kujantie 15 H","puhelinNumero":"040-678768","tyoNro":"040-4312"}
+  ]
+  }
